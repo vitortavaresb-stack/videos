@@ -1,6 +1,12 @@
 # ECTA — Vídeo de delivery
 
-## Novas variações
+## Nova alternativa — ritmo calmo e legendas
+
+[**Assistir / baixar a nova alternativa**](./ECTA-alternativa-calma-legendada.mp4)
+
+Seis cenas com o mesmo ritmo da [versão aprovada](./ECTA-delivery-41s-v2.mp4), novas imagens de restaurante e impressora branca, interfaces redesenhadas e legendas em blocos de frases. Mantém o áudio original, 41 segundos, 1080 × 1920 e 30 FPS. O zoom no digitando abaixo de Seu Delivery continua sincronizado à locução.
+
+## Experimentos com mais cortes
 
 | Versão | Característica | Vídeo |
 | --- | --- | --- |
