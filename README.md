@@ -1,5 +1,14 @@
 # ECTA — Vídeo de delivery
 
+## Novas variações
+
+| Versão | Característica | Vídeo |
+| --- | --- | --- |
+| Variação 1 — Inserts | 22 cenas, mais inserts e scroll para baixo e para cima | [Assistir / baixar](./ECTA-variacao-1-inserts.mp4) |
+| Variação 2 — Dinâmica | 32 cenas, cortes mais rápidos, mais texto e legendas cinéticas | [Assistir / baixar](./ECTA-variacao-2-dinamica.mp4) |
+
+As duas preservam a locução original, os 41 segundos, 1080 × 1920 e 30 FPS. O atendimento aparece como **Seu Delivery**, com close no **digitando...** abaixo do nome durante a frase correspondente.
+
 ## Versão 2 — revisada
 
 [**Assistir ou baixar o vídeo revisado**](./ECTA-delivery-41s-v2.mp4)
