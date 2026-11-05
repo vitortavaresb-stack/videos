@@ -1,5 +1,15 @@
 # ECTA — Vídeo de delivery
 
+## Apresentação ECTA — prévia em motion
+
+[**Assistir / baixar a prévia completa da apresentação**](./ECTA-apresentacao-previa-motion.mp4)
+
+Prévia de aproximadamente 3min45s em 720 × 1280, com a faixa de áudio original preservada integralmente. Inclui cenas reais, prints de clientes substituídos por gráficos e cards animados, apresentação de ferramentas, plano e condições, além de legendas redesenhadas.
+
+**Abertura provisória:** a foto do novo escritório ainda precisa chegar como arquivo JPG ou PNG. Os primeiros segundos mostram um espaço explicitamente reservado para essa foto. Este arquivo é uma prévia para revisão, não a exportação final.
+
+Para salvar o MP4, abra o arquivo e clique em **Download raw file**.
+
 ## Nova alternativa — ritmo calmo e legendas
 
 [**Assistir / baixar a nova alternativa**](./ECTA-alternativa-calma-legendada.mp4)
